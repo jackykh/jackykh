@@ -4,5 +4,3 @@ A 2021 graduate with a history degree in Hong Kong. After graduation, I find my 
 
 > _We can admit our knowledge gaps, may or may not feel like impostors, and still have deeply valuable expertise that takes years of hard work to develop._ <br>—— Dan Abramov
 
-
-![Top Langs](https://github-readme-stats-bay-five-43.vercel.app/api/top-langs/?username=jackykh&layout=compact)
